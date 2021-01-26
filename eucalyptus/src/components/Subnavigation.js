@@ -3,7 +3,6 @@ import React, { Component } from 'react';
 import {Link } from "react-router-dom";
 import "./Subnavigation.css"
 
-// 코드 더러우니까 놀라지말아주세요... 언젠가 바꿀겁니다..
 
 function Subnavigation() {
     return (
